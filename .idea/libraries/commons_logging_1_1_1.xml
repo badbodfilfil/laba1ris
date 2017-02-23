@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../IE8 шаблон ЭУМКД РИС лабы 1-2/Web-сервисы 1/окружение/jar/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IE8 шаблон ЭУМКД РИС лабы 1-2/Web-сервисы 1/окружение/jar/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IE8 шаблон ЭУМКД РИС лабы 1-2/Web-сервисы 1/окружение/jar/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IE8 шаблон ЭУМКД РИС лабы 1-2/Web-сервисы 1/окружение/axis-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IE8 шаблон ЭУМКД РИС лабы 1-2/Web-сервисы 1/окружение/jar/commons-discovery-0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
